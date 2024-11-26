@@ -1,5 +1,3 @@
-# website 
-[Resume Optimizer](https://resume-optimizer-weld.vercel.app/)
 
 
 
